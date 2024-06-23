@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+NZ:wght@100..400&display=swap');
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    background-color: rgb(223, 240, 234);
+    width: 800px;
+    border-radius: 30px;
+    font-family:  "Playwrite NZ", cursive;
+}
+.container .icons img{
+    width: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+    justify-content: space-between;
+}
